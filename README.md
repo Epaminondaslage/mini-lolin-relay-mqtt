@@ -230,7 +230,7 @@ fetch('/toggle', { method: 'POST' })
 - `style.css` – estilo  
 - `script.js` – controle AJAX  
 
-Upload via: **Arduino IDE → Tools → Upload Filesystem Image**
+Upload: ver repositório: https://github.com/Epaminondaslage/quadro_de_chamadas/blob/main/spiffs_esp32_guia.md
 
 ---
 
