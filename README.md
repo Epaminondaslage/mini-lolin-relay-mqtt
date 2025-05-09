@@ -21,6 +21,8 @@ Desenvolver uma solução **IoT leve e eficiente**, baseada no **ESP8266**, com 
 
 A LOLIN D1 Mini V4.0.0 é uma placa de desenvolvimento compacta baseada no microcontrolador ESP8266EX, projetada especialmente para aplicações de Internet das Coisas (IoT). Ela oferece conectividade Wi-Fi integrada, 4 MB de memória flash, 11 pinos digitais multifuncionais (suporte a PWM, interrupções, I2C e One-Wire) e uma entrada analógica, sendo alimentada por 5V via porta USB-C — que substitui a antiga Micro-USB das versões anteriores. A versão 4.0.0 traz melhorias no circuito de reset (com resistor de 470Ω entre RST e GPIO16 para facilitar o uso de modo Deep Sleep), otimizações no layout da placa e ajuste no LED onboard para reduzir o consumo de energia. Compacta (34,2 × 25,6 mm) e leve (3 g), é altamente compatível com ambientes como Arduino IDE, MicroPython e NodeMCU, sendo ideal para projetos de automação residencial, dispositivos inteligentes e integração com assistentes virtuais como o Home Assistant.
 
+<img src="https://github.com/Epaminondaslage/D1-Mini-Lolin/blob/master/Figuras/wemos di mini lolin.JPG" height="150" width="200">
+
 ### 🔧 Especificações Técnicas
 
 - **MCU:** ESP8266EX (32 bits, até 160 MHz)  
