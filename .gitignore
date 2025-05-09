@@ -1,0 +1,44 @@
+
+# Arduino IDE build files
+*.elf
+*.bin
+*.hex
+*.pyc
+*.DS_Store
+*.bak
+*.d
+*.dep
+*.exe
+*.map
+*.o
+*.a
+*.class
+*.log
+*.suo
+*.swp
+
+# SPIFFS and local Arduino upload settings
+data/upload/
+data/.upload_config.json
+
+# VSCode and PlatformIO
+.vscode/
+.pio/
+.pioenvs/
+libdeps/
+platformio.ini.bak
+
+# Arduino CLI
+.build/
+
+# Arduino Sketchbook backup
+*.ino.*
+*.tmp
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Ignore compiled firmware
+firmware*.bin
+spiffs.bin
