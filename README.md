@@ -124,12 +124,12 @@ Relé ideal para acionar dispositivos AC/DC em projetos com D1 Mini.
 ## 🗂️ Estrutura do Projeto
 
 ```bash
-esp8266_rele/
+mini_lolin_relay/
 ├── data/
 │   ├── index.html      # Interface AJAX
 │   ├── style.css       # Estilo visual
 │   └── script.js       # Funções AJAX
-│esp8266_rele.ino       # Código principal
+│/mini_lolin_relay/mini_lolin_relay.ino       # Código principal
 ```
 
 ---
