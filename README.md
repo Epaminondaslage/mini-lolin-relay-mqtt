@@ -251,8 +251,6 @@ Faça upload do firmware `.bin` direto via navegador.
 
 ---
 
-## 📌 Próximos Passos
+## 📌 Repositórios complementares
 
-- 🌡️ Integração com sensores (DHT22, LDR)  
-- 📝 Registro de eventos no SPIFFS  
-- 🤖 Integração automática com Home Assistant
+- https://github.com/Epaminondaslage/Wemos-Mini-Lolin
