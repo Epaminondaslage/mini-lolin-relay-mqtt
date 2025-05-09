@@ -12,16 +12,16 @@
 #define EEPROM_ADDR 0
 
 const char* ssid = "PLT-DIR";
-const char* password = "Epaminondas";
-IPAddress local_ip(10, 0, 0, 52);
-IPAddress gateway(10, 0, 0, 1);
+const char* password = "epaminondas";
+IPAddress local_ip(10, 0, 2, 52);
+IPAddress gateway(10, 0, 2, 1);
 IPAddress subnet(255, 255, 255, 0);
 
 const char* mqtt_server = "10.0.0.141";
 const char* mqtt_user = "MQTT";
 const char* mqtt_pass = "planeta";
 const char* mqtt_topic_cmd = "rele/comando";
-const char* mqtt_topic_status = "ESP8266/52/status";
+const char* mqtt_topic_status = "Mini-Lolin/52/status";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
