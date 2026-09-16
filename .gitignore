@@ -42,3 +42,5 @@ Thumbs.db
 # Ignore compiled firmware
 firmware*.bin
 spiffs.bin
+~$*
+*.icloud
